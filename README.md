@@ -23,5 +23,5 @@ To edit this repository in MakeCode.
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
-new website for profile:https://github.com/mc7-minecraft
+new website for profile: https://github.com/mc7-minecraft
 Do NOT use old website. Thabk You for your cooperation.
