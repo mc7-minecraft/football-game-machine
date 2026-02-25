@@ -1,5 +1,5 @@
 
-> Open this page at [https://laujackson40-cloud.github.io/football-game-machine/](https://laujackson40-cloud.github.io/football-game-machine/)
+> Open this page at (https://mc7-minecraft.github.io/football-game-machine/)
 
 ## Use as Extension
 
