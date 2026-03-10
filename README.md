@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/laujackson40-cloud/football-game-machine** and import
+* search for **https://mc7-minecraft.github.io/football-game-machine/** and import
 
 ## Edit this project
 
