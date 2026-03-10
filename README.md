@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/laujackson40-cloud/football-game-machine** and click import
+* paste **(https://mc7-minecraft.github.io/football-game-machine/)** and click import
 
 #### Metadata (used for search, rendering)
 
